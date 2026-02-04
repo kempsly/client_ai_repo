@@ -1,0 +1,11 @@
+{
+  "task_id": "9bcc2a8d-f224-49de-9a43-cb94ca88f8ea",
+  "filename": "test_file_11.xlsx",
+  "status": "completed",
+  "progress": 100,
+  "total_rows": 100,
+  "processed_rows": 100,
+  "start_time": 1770222706.1226969,
+  "result_file": "prediction_test_file_11_9bcc2a8d-f224-49de-9a43-cb94ca88f8ea.xlsx",
+  "error": null
+}
